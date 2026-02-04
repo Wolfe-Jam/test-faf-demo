@@ -1,0 +1,13 @@
+{
+  "name": "test-faf-demo",
+  "version": "1.0.0",
+  "description": "Test repo for builder.faf.one demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["demo", "faf", "test"],
+  "author": "wolfejam",
+  "license": "MIT"
+}
